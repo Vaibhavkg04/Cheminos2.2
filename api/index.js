@@ -11,7 +11,8 @@ const userdb = require("./model/userSchema.js")
 
 const clientid = process.env.OAUTH_CLIENT_ID;
 const clientsecret = process.env.OAUTH_CLIENT_SECRET;
- 
+
+
 
 app.use(cors({
   origin:"http://localhost:3000",
