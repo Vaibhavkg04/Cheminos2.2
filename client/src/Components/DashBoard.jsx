@@ -4,7 +4,7 @@ const Dashboard = () => {
 	return (
 		<div>
 			<h1>Dashbaord</h1>
-			<h2>vaibhav is chutiya fuckup</h2>
+			<h2></h2>
 		</div>
 	);
 };
